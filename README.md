@@ -1,2 +1,1 @@
-# ECE-2200L---Introduction-to-Microelectronics-Circuits-Lab
-Behavior of semiconductor devices including diodes and MOSFETS: modes of operation and IV characteristics. Diode circuit analysis. Amplifier biasing. Application of large signal models to single stage amplifiers to determine voltage transfer curves. Introduction to CMOS digital logic gates including latches. Transient analysis of CMOS logic gates.
+These are my lab reports for this course. I worked with one other partner.
